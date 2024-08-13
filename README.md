@@ -2,6 +2,8 @@
 
 A simple React TypeScript application that allows users to find the week number for a given date. By default, the app displays the current week number. Users can input a date in either `YYYY-MM-DD` or `DD/MM/YYYY` format to find out the corresponding week number.
 
+URL: https://get-week-number.netlify.app
+
 ## Features
 
 - **Current Week Display**: Automatically displays the current week number on page load.
