@@ -45,8 +45,7 @@ export const FiscalYear: FC = () => {
 
   return (
     <div className="container">
-      {/* <h1>Week Number Finder</h1> */}
-      {dateInput && !errorMessage && weekNumber !== currentWeekNumber && (
+      {dateInput && !errorMessage && (
         <h1>
           Week number is: <span style={{ color: "#213547" }}>{weekNumber}</span>
         </h1>
